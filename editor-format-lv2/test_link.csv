@@ -1,0 +1,3 @@
+username,password,editor_content,username_sel,password_sel,login_btn_sel,assert_element_sel,link,url,tiny_link_button_selector
+admin,sandbox24,'test_content',#username,#password,#loginbtn,'[data-id="id_s__summary"] a[href="https://www.google.com"]','https://www.google.com',https://sandbox.moodledemo.net,'[data-mce-name="tiny_link_link"]'
+manager,sandbox24,'test_content\nnewline',#username,#password,#loginbtn,'[data-id="id_s__summary"] a[href="https://www.google.com"]','https://www.wikipedia.org/',https://sandbox.moodledemo.net,'[data-mce-name="tiny_link_link"]'

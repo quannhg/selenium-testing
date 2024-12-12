@@ -1,0 +1,3 @@
+username,password,editor_content,assignment_name,description,show_description,enable_allow_submissions_from,allow_submissions_from_minute,allow_submissions_from_hour,enable_online_text_submission,_skip_
+admin,sandbox24,'test_content','ass_1','Doing Assignment = Sleep deprivation',true,true,'19','10',false,false
+manager,sandbox24,'test_content\nnewline','ass_2','Doing Assignment = Sleep deprivation,true,true,'19','10',false,false

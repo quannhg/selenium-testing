@@ -1,0 +1,8 @@
+_skip_,test_name,url,username,password,editor_content,username_sel,password_sel,login_btn_sel,assert_element_sel,style_button_selector
+,'number list',https://sandbox.moodledemo.net,admin,sandbox24,'test_content',#username,#password,#loginbtn,'[data-id="id_s__summary"] ol li','[data-mce-name="numlist"]'
+,'italic',https://sandbox.moodledemo.net,admin,sandbox24,'test_content',#username,#password,#loginbtn,'[data-id="id_s__summary"] em','[data-mce-name="italic"]'
+,'increase indent',https://sandbox.moodledemo.net,admin,sandbox24,'test_content',#username,#password,#loginbtn,'[data-id="id_s__summary"] > [style*="padding-left: 40px;"]','[data-mce-name="indent"]'
+,'bullet list',https://sandbox.moodledemo.net,admin,sandbox24,'test_content',#username,#password,#loginbtn,'[data-id="id_s__summary"] ul li','[data-mce-name="bullist"]'
+,'align right',https://sandbox.moodledemo.net,admin,sandbox24,'test_content',#username,#password,#loginbtn,'[data-id="id_s__summary"] > [style*="text-align: right;"]','[data-mce-name="alignright"]'
+,'align left',https://sandbox.moodledemo.net,admin,sandbox24,'test_content',#username,#password,#loginbtn,'[data-id="id_s__summary"] > [style*="text-align: left;"]','[data-mce-name="alignleft"]'
+,'align center',https://sandbox.moodledemo.net,admin,sandbox24,'test_content',#username,#password,#loginbtn,'[data-id="id_s__summary"] > [style*="text-align: center;"]','[data-mce-name="aligncenter"]'

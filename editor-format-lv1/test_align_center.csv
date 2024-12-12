@@ -1,0 +1,3 @@
+username,password,editor_content,_skip_
+admin,sandbox24,'test_content',False
+manager,sandbox24,'test_content\nnewline',False

@@ -1,0 +1,3 @@
+username,password,editor_content,username_sel,password_sel,login_btn_sel
+admin,sandbox24,'test_content',#username,#password,#loginbtn
+manager,sandbox24,'test_content\nnewline',#username,#password,#loginbtn
